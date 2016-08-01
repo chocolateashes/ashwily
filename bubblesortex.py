@@ -18,5 +18,6 @@ print("After sort:")
 bubble_sort_students(gwc_lockheed)
 print(gwc_lockheed)
 print("Ashwini is awesome!")
+print("But Emily is more awesome!")
 
 
